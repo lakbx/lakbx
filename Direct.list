@@ -163,7 +163,7 @@ DOMAIN-SUFFIX,wukong.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
-DOMAIN-SUFFIX,zjcdn.com
+
 
 # CCTV
 DOMAIN-SUFFIX,cctv.com
@@ -599,3 +599,4 @@ DOMAIN-SUFFIX,tra1.m-team.cc
 DOMAIN-SUFFIX,hdkyl.in
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,tracker.hhan.club
+DOMAIN-SUFFIX,lakbx.top
