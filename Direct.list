@@ -14,7 +14,7 @@ DOMAIN-KEYWORD,taobao
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,151.242.42.95/32,no-resolve
+IP-CIDR,151.242.42.132/32,no-resolve
 
 # 端口匹配
 SRC-PORT,5244
